@@ -1,0 +1,7 @@
+C:\Users\АушахмановИ\source\repos\InheritanceLesson\InheritanceLesson\bin\Debug\InheritanceLesson.exe.config
+C:\Users\АушахмановИ\source\repos\InheritanceLesson\InheritanceLesson\bin\Debug\InheritanceLesson.exe
+C:\Users\АушахмановИ\source\repos\InheritanceLesson\InheritanceLesson\bin\Debug\InheritanceLesson.pdb
+C:\Users\АушахмановИ\source\repos\InheritanceLesson\InheritanceLesson\obj\Debug\InheritanceLesson.csprojAssemblyReference.cache
+C:\Users\АушахмановИ\source\repos\InheritanceLesson\InheritanceLesson\obj\Debug\InheritanceLesson.csproj.CoreCompileInputs.cache
+C:\Users\АушахмановИ\source\repos\InheritanceLesson\InheritanceLesson\obj\Debug\InheritanceLesson.exe
+C:\Users\АушахмановИ\source\repos\InheritanceLesson\InheritanceLesson\obj\Debug\InheritanceLesson.pdb
